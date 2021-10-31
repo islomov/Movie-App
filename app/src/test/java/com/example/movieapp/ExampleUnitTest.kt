@@ -1,4 +1,4 @@
-package com.tbc.movieapp
+package com.example.movieapp
 
 import org.junit.Test
 
